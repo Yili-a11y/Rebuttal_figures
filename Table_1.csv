@@ -1,0 +1,28 @@
+﻿Metrics,B/plasma,Endothelial,Neuron
+L1 · Lexical: Number of detected genes,-0.0010,-0.0021,0.0007
+L2 · Lexical: Expected-gene recall at reference P50,0.0067,-0.0031,0
+L3 · Lexical: Mean reference detection rate of expressed genes,0.0039,-0.0071,-0.0019
+"L4 · Lexical: Top-200 rare-gene fraction, reference detection <1%",NA,NA,NA
+L5 · Lexical: Median positive-expression percentile by reference detection bin,0.0024,-0.0200,-0.0190
+S1 · Syntactic: Number of active programs,-0.0103,-0.0022,0.0161
+S2 · Syntactic: Mean reference detection rate of programs,-0.0067,0.0106,-0.0179
+S3 · Syntactic: Expected-program recall at reference P50,0.0094,-0.0042,0.0236
+S4 · Syntactic: Active-program fraction by real detection bin,0.0154,0.038,0.05
+S5 · Syntactic: Median program-score percentile by real detection bin,-0.1500,0,-0.0833
+S6 · Syntactic: Median detected-member count percentile by program class,-0.0019,-0.0029,0.0045
+S7 · Syntactic: Median positive-member expression percentile by program class,0.0022,0.0018,-0.0020
+S8 · Syntactic: Median coordination similarity of supported programs,-0.0211,0.0169,0.015
+S9 · Syntactic: Median coordination error of supported programs,0.2576,0.0594,-0.1991
+M1 · Semantic: Top-200 marker enrichment,0,0,0
+M2 · Semantic: Mean marker detection error,-0.0274,-0.0017,0.0379
+M3 · Semantic: Median marker-expression percentile,0.018,0,-0.0451
+M4 · Semantic: Overall marker-expression contrast,-0.0016,0.0056,0.0066
+M5 · Semantic: Overall identity-program score contrast,0.0137,0.0603,0.0027
+P1 · Population: Unbiased MMD²,-0.3786,0.3338,-0.2926
+P2 · Population: Manifold precision,-0.1481,-0.0714,0.0833
+P3 · Population: Manifold coverage,0.0625,0.0571,0
+P4 · Population: Effective-rank ratio,-0.0502,0.0195,0.2459
+P5 · Population: Normalized PCA eigenvalue spectrum,-0.0592,0.0501,0.0944
+P6 · Population: Median reference-PCA residual fraction,-0.0373,-0.0213,0.0836
+P7 · Population: Gene-wise variance similarity by reference detection bin,-0.0258,-0.0075,0.0205
+P8 · Population: Median log₂ gene-variance ratio by reference detection bin,-0.9901,-1.5047,1.5698
